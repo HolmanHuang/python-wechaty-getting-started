@@ -1,3 +1,6 @@
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
+[![Wechaty开源激励计划](https://img.shields.io/badge/Wechaty-开源激励计划-green.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
+
 # python-wechaty-getting-started ![PyPI Version](https://img.shields.io/pypi/v/wechaty?color=blue) [![Python 3.7](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 ![Python Wechaty](https://wechaty.github.io/python-wechaty/images/python-wechaty.png)
